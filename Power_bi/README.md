@@ -18,7 +18,7 @@ Este dashboard permite analizar y monitorear el portafolio crediticio de los cli
 
 **Valor agregado:** Permite un diagnóstico rápido del portafolio, identificar alertas de riesgo y tomar decisiones estratégicas de gestión de crédito.  
 
-![Panorama General](image.png)
+![alt text](image.png)
 
 ---
 
